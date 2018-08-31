@@ -1,0 +1,1495 @@
+FROM: (J) Loop Road At The Admissions Building
+Coast down 852 feet in direction 256 degrees West.
+TO: (!) Theater Lot
+(38 seconds)
+
+FROM: (!) Theater Lot
+Glide 445 feet in direction 243 degrees SW.
+TO: (~) Lower Theater Lot
+(49 seconds)
+
+FROM: (~) Lower Theater Lot
+ON: Lower Theater Lot Rear Access
+Walk down 296 feet in direction 191 degrees South.
+TO: (B) Start Lower Theater Lot Rear Access Road
+(no skateboards allowed, 59 seconds)
+
+FROM: (B) Start Lower Theater Lot Rear Access Road
+ON: Lower Theater Lot Rear Access
+Walk 296 feet in direction 11 degrees North.
+TO: (~) Lower Theater Lot
+(no skateboards allowed, 1.2 minutes)
+
+FROM: (~) Lower Theater Lot
+Glide 445 feet in direction 63 degrees NE.
+TO: (!) Theater Lot
+(49 seconds)
+
+FROM: (!) Theater Lot
+Glide 351 feet in direction 61 degrees NE.
+TO: (L4) Spingold Theater Center
+(39 seconds)
+
+FROM: (L4) Spingold Theater Center
+Glide 346 feet in direction 67 degrees NE.
+TO: (I) Loop Road At The Theater
+(38 seconds)
+
+FROM: (I) Loop Road At The Theater
+ON: Loop Road
+Coast down 229 feet in direction 118 degrees SE.
+TO: (J) Loop Road At The Admissions Building
+(10 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+ON: Loop Road
+Glide 167 feet in direction 110 degrees East.
+TO: (K) Loop Road At The Administration Building
+(33 seconds)
+
+FROM: (K) Loop Road At The Administration Building
+ON: Loop Road
+Coast down 167 feet in direction 290 degrees West.
+TO: (J) Loop Road At The Admissions Building
+(7 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+ON: Loop Road
+Glide 229 feet in direction 298 degrees NW.
+TO: (I) Loop Road At The Theater
+(46 seconds)
+
+FROM: (I) Loop Road At The Theater
+ON: Loop Road
+Glide 508 feet in direction 20 degrees North.
+TO: (M) Loop Road By The Hassenfeld Lot
+(1.7 minutes)
+
+FROM: (M) Loop Road By The Hassenfeld Lot
+Glide 151 feet in direction 233 degrees SW.
+TO: (#) Hassenfeld Lot
+(17 seconds)
+
+FROM: (#) Hassenfeld Lot
+Glide 151 feet in direction 53 degrees NE.
+TO: (M) Loop Road By The Hassenfeld Lot
+(17 seconds)
+
+FROM: (M) Loop Road By The Hassenfeld Lot
+Glide 186 feet in direction 36 degrees NE.
+TO: (L10) Deroy Residence Hall
+(21 seconds)
+
+FROM: (L10) Deroy Residence Hall
+Glide 189 feet in direction 163 degrees South.
+TO: (L9) Shapiro Residence Hal
+(21 seconds)
+
+FROM: (L9) Shapiro Residence Hal
+Glide 231 feet in direction 103 degrees East.
+TO: (L13) Sherman Hall / Hassenfeld Conference Center
+(25 seconds)
+
+FROM: (L13) Sherman Hall / Hassenfeld Conference Center
+Glide 139 feet in direction 95 degrees East.
+TO: (L16) Rosenthal Residence Hall South
+(15 seconds)
+
+FROM: (L16) Rosenthal Residence Hall South
+Glide 215 feet in direction 61 degrees NE.
+TO: (L15) Rosenthal Residence Hall East
+(24 seconds)
+
+FROM: (L15) Rosenthal Residence Hall East
+Walk 140 feet in direction 159 degrees South.
+TO: (Q) Rosenthal Quad
+(no skateboards allowed, 31 seconds)
+
+FROM: (Q) Rosenthal Quad
+ON: Central Campus Walkway
+Glide 555 feet in direction 68 degrees East.
+TO: (T) Between Sciences and Library
+(1.9 minutes)
+
+FROM: (T) Between Sciences and Library
+Walk 72 feet in direction 189 degrees South.
+TO: (U24) Goldsmith Building
+(no skateboards allowed, 16 seconds)
+
+FROM: (U24) Goldsmith Building
+Walk 72 feet in direction 9 degrees North.
+TO: (T) Between Sciences and Library
+(no skateboards allowed, 16 seconds)
+
+FROM: (T) Between Sciences and Library
+Walk 118 feet in direction 81 degrees East.
+TO: (U23) Pearlman Hall
+(no skateboards allowed, 26 seconds)
+
+FROM: (U23) Pearlman Hall
+Walk 182 feet in direction 307 degrees NW.
+TO: (U22) Farber Library
+(no skateboards allowed, 40 seconds)
+
+FROM: (U22) Farber Library
+Glide 132 feet in direction 168 degrees South.
+TO: (T) Between Sciences and Library
+(15 seconds)
+
+FROM: (T) Between Sciences and Library
+Walk 72 feet in direction 189 degrees South.
+TO: (U24) Goldsmith Building
+(no skateboards allowed, 16 seconds)
+
+FROM: (U24) Goldsmith Building
+Walk 172 feet in direction 113 degrees SE.
+TO: (U28) Bassine Science Building
+(no skateboards allowed, 38 seconds)
+
+FROM: (U28) Bassine Science Building
+Walk 146 feet in direction 236 degrees SW.
+TO: (U29) Gerstenzang Science Library
+(no skateboards allowed, 32 seconds)
+
+FROM: (U29) Gerstenzang Science Library
+Walk 143 feet in direction 284 degrees West.
+TO: (U27) Abelson-Bass-Yalem
+(no skateboards allowed, 32 seconds)
+
+FROM: (U27) Abelson-Bass-Yalem
+Walk 90 feet in direction 143 degrees SE.
+TO: (U30) Edison-Lecks Science Building
+(no skateboards allowed, 20 seconds)
+
+FROM: (U30) Edison-Lecks Science Building
+Walk 81 feet in direction 186 degrees South.
+TO: (U31) Shapiro Science Center
+(no skateboards allowed, 18 seconds)
+
+FROM: (U31) Shapiro Science Center
+Walk 81 feet in direction 6 degrees North.
+TO: (U30) Edison-Lecks Science Building
+(no skateboards allowed, 18 seconds)
+
+FROM: (U30) Edison-Lecks Science Building
+Walk 90 feet in direction 323 degrees NW.
+TO: (U27) Abelson-Bass-Yalem
+(no skateboards allowed, 20 seconds)
+
+FROM: (U27) Abelson-Bass-Yalem
+Walk 162 feet in direction 274 degrees West.
+TO: (U26) Feldberg Communicatins Center
+(no skateboards allowed, 36 seconds)
+
+FROM: (U26) Feldberg Communicatins Center
+Walk 140 feet in direction 50 degrees NE.
+TO: (U25) Volen National Center For Complex Systems
+(no skateboards allowed, 31 seconds)
+
+FROM: (U25) Volen National Center For Complex Systems
+Walk 267 feet in direction 296 degrees NW.
+TO: (U4) Chapels Field
+(no skateboards allowed, 59 seconds)
+
+FROM: (U4) Chapels Field
+Walk 267 feet in direction 116 degrees SE.
+TO: (U25) Volen National Center For Complex Systems
+(no skateboards allowed, 59 seconds)
+
+FROM: (U25) Volen National Center For Complex Systems
+Walk 117 feet in direction 152 degrees SE.
+TO: (U27) Abelson-Bass-Yalem
+(no skateboards allowed, 26 seconds)
+
+FROM: (U27) Abelson-Bass-Yalem
+Walk 90 feet in direction 143 degrees SE.
+TO: (U30) Edison-Lecks Science Building
+(no skateboards allowed, 20 seconds)
+
+FROM: (U30) Edison-Lecks Science Building
+Walk 81 feet in direction 186 degrees South.
+TO: (U31) Shapiro Science Center
+(no skateboards allowed, 18 seconds)
+
+FROM: (U31) Shapiro Science Center
+Walk 283 feet in direction 94 degrees East.
+TO: (U34) Rosenstiel Basic Medical Sciences Research Center
+(no skateboards allowed, 1.0 minutes)
+
+FROM: (U34) Rosenstiel Basic Medical Sciences Research Center
+Glide 156 feet in direction 59 degrees NE.
+TO: (*) Shapiro Visitor Lot
+(17 seconds)
+
+FROM: (*) Shapiro Visitor Lot
+Glide 134 feet in direction 107 degrees East.
+TO: (U35) Kosow-Wolfson-Rosensweig
+(15 seconds)
+
+FROM: (U35) Kosow-Wolfson-Rosensweig
+Walk 157 feet in direction 126 degrees SE.
+TO: (U36) Foster Bio-Medical Research Center
+(no skateboards allowed, 35 seconds)
+
+FROM: (U36) Foster Bio-Medical Research Center
+Glide 81 feet in direction 109 degrees East.
+TO: (V) Loop Road At The Top Of Squire Bridge Steps
+(9 seconds)
+
+FROM: (V) Loop Road At The Top Of Squire Bridge Steps
+ON: Usen Bypass
+Glide 297 feet in direction 38 degrees NE.
+TO: (S) Top Of Usen Steps
+(1.0 minutes)
+
+FROM: (S) Top Of Usen Steps
+ON: Usen Bypass
+Glide 130 feet in direction 337 degrees NW.
+TO: (7) Usen Main Entrance
+(14 seconds)
+
+FROM: (7) Usen Main Entrance
+ON: Usen Bypass
+Glide 161 feet in direction 37 degrees NE.
+TO: (8) Intersection Of Loop Road And Usen Bypass
+(18 seconds)
+
+FROM: (8) Intersection Of Loop Road And Usen Bypass
+ON: Loop Road
+Coast down 257 feet in direction 116 degrees SE.
+TO: (9) Loop Road At The Top Of East Quad Steps
+(11 seconds)
+
+FROM: (9) Loop Road At The Top Of East Quad Steps
+ON: Loop Road
+Glide 257 feet in direction 296 degrees NW.
+TO: (8) Intersection Of Loop Road And Usen Bypass
+(52 seconds)
+
+FROM: (8) Intersection Of Loop Road And Usen Bypass
+ON: Usen Bypass
+Glide 161 feet in direction 217 degrees SW.
+TO: (7) Usen Main Entrance
+(18 seconds)
+
+FROM: (7) Usen Main Entrance
+Walk 63 feet in direction 268 degrees West.
+TO: (U39) Lemberg Hall And Children's Center
+(no skateboards allowed, 14 seconds)
+
+FROM: (U39) Lemberg Hall And Children's Center
+Glide 189 feet in direction 90 degrees East.
+TO: (U40) Usen Castle
+(21 seconds)
+
+FROM: (U40) Usen Castle
+Glide 189 feet in direction 270 degrees West.
+TO: (U39) Lemberg Hall And Children's Center
+(21 seconds)
+
+FROM: (U39) Lemberg Hall And Children's Center
+Glide 197 feet in direction 280 degrees West.
+TO: (U38) Brown Social Science Center
+(22 seconds)
+
+FROM: (U38) Brown Social Science Center
+Glide 187 feet in direction 293 degrees NW.
+TO: (U37) Schwartz Hall
+(21 seconds)
+
+FROM: (U37) Schwartz Hall
+Glide 112 feet in direction 279 degrees West.
+TO: (U) Between Social Sciences And Library
+(12 seconds)
+
+FROM: (U) Between Social Sciences And Library
+Glide 169 feet in direction 338 degrees North.
+TO: (U21) Goldfarb Library
+(19 seconds)
+
+FROM: (U21) Goldfarb Library
+Glide 169 feet in direction 158 degrees South.
+TO: (U) Between Social Sciences And Library
+(19 seconds)
+
+FROM: (U) Between Social Sciences And Library
+Glide 112 feet in direction 99 degrees East.
+TO: (U37) Schwartz Hall
+(12 seconds)
+
+FROM: (U37) Schwartz Hall
+Glide 187 feet in direction 113 degrees SE.
+TO: (U38) Brown Social Science Center
+(21 seconds)
+
+FROM: (U38) Brown Social Science Center
+Glide 197 feet in direction 100 degrees East.
+TO: (U39) Lemberg Hall And Children's Center
+(22 seconds)
+
+FROM: (U39) Lemberg Hall And Children's Center
+Walk 63 feet in direction 88 degrees East.
+TO: (7) Usen Main Entrance
+(no skateboards allowed, 14 seconds)
+
+FROM: (7) Usen Main Entrance
+ON: Usen Bypass
+Glide 130 feet in direction 157 degrees SE.
+TO: (S) Top Of Usen Steps
+(14 seconds)
+
+FROM: (S) Top Of Usen Steps
+ON: Usen Bypass
+Coast down 297 feet in direction 218 degrees SW.
+TO: (V) Loop Road At The Top Of Squire Bridge Steps
+(13 seconds)
+
+FROM: (V) Loop Road At The Top Of Squire Bridge Steps
+Coast down 635 feet in direction 259 degrees West.
+TO: (O) Loop Road At Below The Science Complex
+(28 seconds)
+
+FROM: (O) Loop Road At Below The Science Complex
+Coast down 433 feet in direction 248 degrees West.
+TO: (L22) Main Entrance
+(19 seconds)
+
+FROM: (L22) Main Entrance
+Glide 230 feet in direction 213 degrees SW.
+TO: (L) East Intersection South St. & Old South St.
+(25 seconds)
+
+FROM: (L) East Intersection South St. & Old South St.
+ON: Old South Street
+Glide 461 feet in direction 220 degrees SW.
+TO: (L40) The Rabb School
+(51 seconds)
+
+FROM: (L40) The Rabb School
+ON: Old South Street
+Glide 461 feet in direction 40 degrees NE.
+TO: (L) East Intersection South St. & Old South St.
+(51 seconds)
+
+FROM: (L) East Intersection South St. & Old South St.
+ON: South Street
+Glide 1315 feet in direction 79 degrees East.
+TO: (A1u) Under Squire Bridge
+(2.4 minutes)
+
+FROM: (A1u) Under Squire Bridge
+ON: Athletics Driveway
+Glide 187 feet in direction 156 degrees SE.
+TO: (Y) Athletics Front Entrance
+(21 seconds)
+
+FROM: (Y) Athletics Front Entrance
+Walk 90 feet in direction 17 degrees North.
+TO: (A1s) Squire Bridge South Entrance
+(no skateboards allowed, 20 seconds)
+
+FROM: (A1s) Squire Bridge South Entrance
+ON: Squire Bridge
+Walk 280 feet in direction 312 degrees NW.
+TO: (A1n) Squire Bridge North Entrance
+(no skateboards allowed, 1.0 minutes)
+
+FROM: (A1n) Squire Bridge North Entrance
+ON: Squire Bridge
+Walk 167 feet in direction 122 degrees SE.
+TO: (A1) Squire Bridge
+(no skateboards allowed, 37 seconds)
+
+FROM: (A1) Squire Bridge
+ON: Squire Bridge
+Walk 120 feet in direction 148 degrees SE.
+TO: (A1s) Squire Bridge South Entrance
+(no skateboards allowed, 26 seconds)
+
+FROM: (A1s) Squire Bridge South Entrance
+Walk 90 feet in direction 197 degrees South.
+TO: (Y) Athletics Front Entrance
+(no skateboards allowed, 20 seconds)
+
+FROM: (Y) Athletics Front Entrance
+ON: Athletics Path
+Glide 549 feet in direction 269 degrees West.
+TO: (&) Athletic Lot
+(1.0 minutes)
+
+FROM: (&) Athletic Lot
+ON: Athletics Path
+Glide 470 feet in direction 201 degrees South.
+TO: (^) Gordon Bleachers
+(52 seconds)
+
+FROM: (^) Gordon Bleachers
+ON: Athletics Path
+Glide 470 feet in direction 21 degrees North.
+TO: (&) Athletic Lot
+(52 seconds)
+
+FROM: (&) Athletic Lot
+ON: Athletics Path
+Glide 549 feet in direction 89 degrees East.
+TO: (Y) Athletics Front Entrance
+(1.0 minutes)
+
+FROM: (Y) Athletics Front Entrance
+Glide 365 feet in direction 61 degrees NE.
+TO: (A2) Shapiro Athletic Center
+(40 seconds)
+
+FROM: (A2) Shapiro Athletic Center
+Glide 365 feet in direction 241 degrees SW.
+TO: (Y) Athletics Front Entrance
+(40 seconds)
+
+FROM: (Y) Athletics Front Entrance
+ON: Athletics Driveway
+Glide 187 feet in direction 336 degrees NW.
+TO: (A1u) Under Squire Bridge
+(21 seconds)
+
+FROM: (A1u) Under Squire Bridge
+ON: South Street
+Glide 430 feet in direction 76 degrees East.
+TO: (X) South St. At The Base Of Health Center Steps
+(1.4 minutes)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+ON: South Street
+Glide 285 feet in direction 60 degrees NE.
+TO: (;) Plant Lot
+(31 seconds)
+
+FROM: (;) Plant Lot
+ON: South Street
+Glide 285 feet in direction 240 degrees SW.
+TO: (X) South St. At The Base Of Health Center Steps
+(31 seconds)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+Glide 206 feet in direction 104 degrees East.
+TO: (A3) Linsey Sports Center And Pool
+(23 seconds)
+
+FROM: (A3) Linsey Sports Center And Pool
+Glide 206 feet in direction 132 degrees SE.
+TO: (?) Athletic Lower Lot
+(23 seconds)
+
+FROM: (?) Athletic Lower Lot
+ON: Athletics Driveway
+Glide 249 feet in direction 139 degrees SE.
+TO: (+) Athletic Back Lot
+(27 seconds)
+
+FROM: (+) Athletic Back Lot
+Glide 391 feet in direction 281 degrees West.
+TO: (A5) Gosman Sports and Convocation Center
+(43 seconds)
+
+FROM: (A5) Gosman Sports and Convocation Center
+Glide 318 feet in direction 205 degrees SW.
+TO: (Z) Athletics Driveway Lower Corner
+(35 seconds)
+
+FROM: (Z) Athletics Driveway Lower Corner
+Walk 173 feet in direction 100 degrees East.
+TO: (A6) Rieger Tennis Courts
+(no skateboards allowed, 38 seconds)
+
+FROM: (A6) Rieger Tennis Courts
+ON: Edge Connecting Map Lower Right Corner To A Map Location
+Glide 2446 feet in direction 159 degrees South.
+TO: (DDD) Lower Right Corner Of Map
+(4.5 minutes)
+
+FROM: (DDD) Lower Right Corner Of Map
+ON: Map Right Edge
+Glide 5521 feet in direction 270 degrees West.
+TO: (CCC) Lower Left Corner Of Map
+(10.2 minutes)
+
+FROM: (CCC) Lower Left Corner Of Map
+ON: Edge Connecting Map Lower Left Corner To A Map Location
+Glide 1408 feet in direction 29 degrees NE.
+TO: (L36) May, Lewis, Coffman, and Cohen Residence Halls
+(2.6 minutes)
+
+FROM: (L36) May, Lewis, Coffman, and Cohen Residence Halls
+ON: South Street
+Glide 713 feet in direction 58 degrees NE.
+TO: (C) Intersection Turner St. & South St.
+(1.3 minutes)
+
+FROM: (C) Intersection Turner St. & South St.
+ON: South Street
+Glide 483 feet in direction 61 degrees NE.
+TO: (F) Epstein Entrance
+(53 seconds)
+
+FROM: (F) Epstein Entrance
+ON: South Street
+Glide 296 feet in direction 55 degrees NE.
+TO: (H) West Intersection South St. & Old South St.
+(59 seconds)
+
+FROM: (H) West Intersection South St. & Old South St.
+ON: South Street
+Coast down 913 feet in direction 64 degrees NE.
+TO: (L) East Intersection South St. & Old South St.
+(40 seconds)
+
+FROM: (L) East Intersection South St. & Old South St.
+ON: South Street
+Glide 1315 feet in direction 79 degrees East.
+TO: (A1u) Under Squire Bridge
+(2.4 minutes)
+
+FROM: (A1u) Under Squire Bridge
+ON: South Street
+Glide 430 feet in direction 76 degrees East.
+TO: (X) South St. At The Base Of Health Center Steps
+(1.4 minutes)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+Glide 399 feet in direction 117 degrees SE.
+TO: (?) Athletic Lower Lot
+(44 seconds)
+
+FROM: (?) Athletic Lower Lot
+Glide 251 feet in direction 63 degrees NE.
+TO: (A4) Foster Residence Quad
+(28 seconds)
+
+FROM: (A4) Foster Residence Quad
+Glide 251 feet in direction 243 degrees SW.
+TO: (?) Athletic Lower Lot
+(28 seconds)
+
+FROM: (?) Athletic Lower Lot
+Glide 399 feet in direction 297 degrees NW.
+TO: (X) South St. At The Base Of Health Center Steps
+(44 seconds)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+Walk 225 feet in direction 270 degrees West.
+TO: (U46) Landsman Research Facility
+(no skateboards allowed, 55 seconds)
+
+FROM: (U46) Landsman Research Facility
+Glide 202 feet in direction 288 degrees West.
+TO: (U48) Mailman House
+(22 seconds)
+
+FROM: (U48) Mailman House
+Glide 202 feet in direction 108 degrees East.
+TO: (U46) Landsman Research Facility
+(22 seconds)
+
+FROM: (U46) Landsman Research Facility
+Glide 130 feet in direction 67 degrees NE.
+TO: (U45) Golding Health Center
+(14 seconds)
+
+FROM: (U45) Golding Health Center
+Glide 130 feet in direction 247 degrees SW.
+TO: (U46) Landsman Research Facility
+(14 seconds)
+
+FROM: (U46) Landsman Research Facility
+Walk down 225 feet in direction 90 degrees East.
+TO: (X) South St. At The Base Of Health Center Steps
+(no skateboards allowed, 45 seconds)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+ON: South Street
+Coast down 430 feet in direction 256 degrees West.
+TO: (A1u) Under Squire Bridge
+(19 seconds)
+
+FROM: (A1u) Under Squire Bridge
+ON: Athletics Driveway
+Glide 187 feet in direction 156 degrees SE.
+TO: (Y) Athletics Front Entrance
+(21 seconds)
+
+FROM: (Y) Athletics Front Entrance
+Walk 164 feet in direction 58 degrees NE.
+TO: (A2e) Shapiro Athletic Center Entrance
+(no skateboards allowed, 36 seconds)
+
+FROM: (A2e) Shapiro Athletic Center Entrance
+Walk 164 feet in direction 238 degrees SW.
+TO: (Y) Athletics Front Entrance
+(no skateboards allowed, 36 seconds)
+
+FROM: (Y) Athletics Front Entrance
+ON: Marcus Field
+Walk 514 feet in direction 218 degrees SW.
+TO: (A7) Marcus Field
+(no skateboards allowed, 1.9 minutes)
+
+FROM: (A7) Marcus Field
+ON: Marcus Field
+Walk 418 feet in direction 266 degrees West.
+TO: (^) Gordon Bleachers
+(no skateboards allowed, 1.5 minutes)
+
+FROM: (^) Gordon Bleachers
+ON: Gordon Field
+Walk 267 feet in direction 259 degrees West.
+TO: (A8) Gordon Field
+(no skateboards allowed, 59 seconds)
+
+FROM: (A8) Gordon Field
+ON: Gordon Field
+Walk 267 feet in direction 79 degrees East.
+TO: (^) Gordon Bleachers
+(no skateboards allowed, 59 seconds)
+
+FROM: (^) Gordon Bleachers
+ON: Athletics Path
+Glide 470 feet in direction 21 degrees North.
+TO: (&) Athletic Lot
+(52 seconds)
+
+FROM: (&) Athletic Lot
+ON: Athletics Path
+Glide 549 feet in direction 89 degrees East.
+TO: (Y) Athletics Front Entrance
+(1.0 minutes)
+
+FROM: (Y) Athletics Front Entrance
+Walk 90 feet in direction 17 degrees North.
+TO: (A1s) Squire Bridge South Entrance
+(no skateboards allowed, 20 seconds)
+
+FROM: (A1s) Squire Bridge South Entrance
+ON: Squire Bridge
+Walk 280 feet in direction 312 degrees NW.
+TO: (A1n) Squire Bridge North Entrance
+(no skateboards allowed, 1.0 minutes)
+
+FROM: (A1n) Squire Bridge North Entrance
+ON: Squire Bridge Steps
+Go 132 feet in direction 344 degrees North.
+TO: (V) Loop Road At The Top Of Squire Bridge Steps
+(no skateboards allowed, 58 seconds)
+
+FROM: (V) Loop Road At The Top Of Squire Bridge Steps
+Glide 81 feet in direction 289 degrees West.
+TO: (U36) Foster Bio-Medical Research Center
+(9 seconds)
+
+FROM: (U36) Foster Bio-Medical Research Center
+Glide 333 feet in direction 53 degrees NE.
+TO: (S) Top Of Usen Steps
+(37 seconds)
+
+FROM: (S) Top Of Usen Steps
+ON: Usen Bypass
+Glide 130 feet in direction 337 degrees NW.
+TO: (7) Usen Main Entrance
+(14 seconds)
+
+FROM: (7) Usen Main Entrance
+ON: Usen Bypass
+Glide 229 feet in direction 11 degrees North.
+TO: (6) Loop Road At The Usdan Student Center West End
+(25 seconds)
+
+FROM: (6) Loop Road At The Usdan Student Center West End
+ON: Loop Road
+Glide 217 feet in direction 292 degrees West.
+TO: (4) Loop Road At The Usdan Student Center
+(24 seconds)
+
+FROM: (4) Loop Road At The Usdan Student Center
+Glide 159 feet in direction 83 degrees East.
+TO: (:) North Quad Lot
+(18 seconds)
+
+FROM: (:) North Quad Lot
+Glide 136 feet in direction 82 degrees East.
+TO: (U19) Kutz Hall
+(15 seconds)
+
+FROM: (U19) Kutz Hall
+Glide 192 feet in direction 100 degrees East.
+TO: (5) Cable Residence Hall Street Entrance
+(21 seconds)
+
+FROM: (5) Cable Residence Hall Street Entrance
+ON: Mandel Rear Access Road
+Coast down 289 feet in direction 254 degrees West.
+TO: (6) Loop Road At The Usdan Student Center West End
+(13 seconds)
+
+FROM: (6) Loop Road At The Usdan Student Center West End
+ON: Loop Road
+Glide 217 feet in direction 292 degrees West.
+TO: (4) Loop Road At The Usdan Student Center
+(24 seconds)
+
+FROM: (4) Loop Road At The Usdan Student Center
+ON: Loop Road
+Glide 197 feet in direction 283 degrees West.
+TO: (2) Loop Road By Rabb Steps
+(22 seconds)
+
+FROM: (2) Loop Road By Rabb Steps
+ON: Loop Road
+Glide 197 feet in direction 103 degrees East.
+TO: (4) Loop Road At The Usdan Student Center
+(22 seconds)
+
+FROM: (4) Loop Road At The Usdan Student Center
+Glide 75 feet in direction 148 degrees SE.
+TO: (U20) Usdan Student Center
+(8 seconds)
+
+FROM: (U20) Usdan Student Center
+Glide 162 feet in direction 94 degrees East.
+TO: (6) Loop Road At The Usdan Student Center West End
+(18 seconds)
+
+FROM: (6) Loop Road At The Usdan Student Center West End
+ON: Mandel Rear Access Road
+Glide 289 feet in direction 74 degrees East.
+TO: (5) Cable Residence Hall Street Entrance
+(58 seconds)
+
+FROM: (5) Cable Residence Hall Street Entrance
+Glide 167 feet in direction 336 degrees NW.
+TO: (3) North Quad
+(18 seconds)
+
+FROM: (3) North Quad
+Glide 139 feet in direction 326 degrees NW.
+TO: (U16) Gordon Residence Hall
+(15 seconds)
+
+FROM: (U16) Gordon Residence Hall
+ON: Mandel Rear Access Road
+Glide 413 feet in direction 283 degrees West.
+TO: (U12) Lown School of Near Eastern and Judaic Studies
+(46 seconds)
+
+FROM: (U12) Lown School of Near Eastern and Judaic Studies
+Walk 131 feet in direction 148 degrees SE.
+TO: (U13) Shiffman Humanities Center
+(no skateboards allowed, 29 seconds)
+
+FROM: (U13) Shiffman Humanities Center
+Glide 167 feet in direction 286 degrees West.
+TO: (0) Mandel Quad
+(18 seconds)
+
+FROM: (0) Mandel Quad
+Glide 149 feet in direction 153 degrees SE.
+TO: (U14) Rabb Graduate Center
+(16 seconds)
+
+FROM: (U14) Rabb Graduate Center
+Glide 149 feet in direction 333 degrees NW.
+TO: (0) Mandel Quad
+(16 seconds)
+
+FROM: (0) Mandel Quad
+Glide 121 feet in direction 308 degrees NW.
+TO: (U11) Golding Judaic Center
+(13 seconds)
+
+FROM: (U11) Golding Judaic Center
+Walk 189 feet in direction 91 degrees East.
+TO: (U12) Lown School of Near Eastern and Judaic Studies
+(no skateboards allowed, 42 seconds)
+
+FROM: (U12) Lown School of Near Eastern and Judaic Studies
+Glide 118 feet in direction 232 degrees SW.
+TO: (0) Mandel Quad
+(13 seconds)
+
+FROM: (0) Mandel Quad
+Glide 81 feet in direction 252 degrees West.
+TO: (U10) Olin-Sang American Civilization Center
+(9 seconds)
+
+FROM: (U10) Olin-Sang American Civilization Center
+Walk 225 feet in direction 269 degrees West.
+TO: (U9) Mandel Center for the Humanities
+(no skateboards allowed, 50 seconds)
+
+FROM: (U9) Mandel Center for the Humanities
+Walk down 91 feet in direction 171 degrees South.
+TO: (1) Loop Road By Mandel Center
+(no skateboards allowed, 18 seconds)
+
+FROM: (1) Loop Road By Mandel Center
+ON: Tower Lot Driveway
+Glide 254 feet in direction 341 degrees North.
+TO: ($) Tower Lot
+(51 seconds)
+
+FROM: ($) Tower Lot
+Glide 258 feet in direction 199 degrees South.
+TO: (U8) Heller School Heller-Brown Building
+(28 seconds)
+
+FROM: (U8) Heller School Heller-Brown Building
+Walk 193 feet in direction 281 degrees West.
+TO: (U5) Heller School Schneider Building
+(no skateboards allowed, 43 seconds)
+
+FROM: (U5) Heller School Schneider Building
+Glide 114 feet in direction 11 degrees North.
+TO: (U7) Abraham Shapiro Academic Complex
+(13 seconds)
+
+FROM: (U7) Abraham Shapiro Academic Complex
+Glide 162 feet in direction 257 degrees West.
+TO: (U6) Mandel Center for Studies in Jewish Education
+(18 seconds)
+
+FROM: (U6) Mandel Center for Studies in Jewish Education
+Glide 156 feet in direction 119 degrees SE.
+TO: (U5) Heller School Schneider Building
+(17 seconds)
+
+FROM: (U5) Heller School Schneider Building
+Glide 337 feet in direction 54 degrees NE.
+TO: ($) Tower Lot
+(37 seconds)
+
+FROM: ($) Tower Lot
+ON: Tower Lot Driveway
+Coast down 254 feet in direction 161 degrees South.
+TO: (1) Loop Road By Mandel Center
+(11 seconds)
+
+FROM: (1) Loop Road By Mandel Center
+ON: Loop Road
+Glide 284 feet in direction 119 degrees SE.
+TO: (2) Loop Road By Rabb Steps
+(31 seconds)
+
+FROM: (2) Loop Road By Rabb Steps
+ON: Loop Road
+Glide 197 feet in direction 103 degrees East.
+TO: (4) Loop Road At The Usdan Student Center
+(22 seconds)
+
+FROM: (4) Loop Road At The Usdan Student Center
+Glide 159 feet in direction 83 degrees East.
+TO: (:) North Quad Lot
+(18 seconds)
+
+FROM: (:) North Quad Lot
+Glide 136 feet in direction 82 degrees East.
+TO: (U19) Kutz Hall
+(15 seconds)
+
+FROM: (U19) Kutz Hall
+Walk 202 feet in direction 323 degrees NW.
+TO: (U15) Scheffres Residence Hall
+(no skateboards allowed, 45 seconds)
+
+FROM: (U15) Scheffres Residence Hall
+Glide 247 feet in direction 100 degrees East.
+TO: (3) North Quad
+(27 seconds)
+
+FROM: (3) North Quad
+Glide 194 feet in direction 105 degrees East.
+TO: (U18) Cable Residence Hall
+(21 seconds)
+
+FROM: (U18) Cable Residence Hall
+ON: Mandel Rear Access Road
+Glide 147 feet in direction 340 degrees North.
+TO: (U17) Reitman Residence Hall
+(29 seconds)
+
+FROM: (U17) Reitman Residence Hall
+ON: Edge Connecting Map Upper Right Corner To A Map Location
+Glide 1225 feet in direction 67 degrees NE.
+TO: (BBB) Upper Right Corner Of Map
+(2.3 minutes)
+
+FROM: (BBB) Upper Right Corner Of Map
+ON: Edge Connecting Map Upper Right Corner To A Map Location
+Glide 1225 feet in direction 247 degrees SW.
+TO: (U17) Reitman Residence Hall
+(2.3 minutes)
+
+FROM: (U17) Reitman Residence Hall
+ON: Mandel Rear Access Road
+Coast down 147 feet in direction 160 degrees South.
+TO: (U18) Cable Residence Hall
+(6 seconds)
+
+FROM: (U18) Cable Residence Hall
+ON: Mandel Rear Access Road
+Glide 162 feet in direction 228 degrees SW.
+TO: (5) Cable Residence Hall Street Entrance
+(18 seconds)
+
+FROM: (5) Cable Residence Hall Street Entrance
+ON: Mandel Rear Access Road
+Coast down 289 feet in direction 254 degrees West.
+TO: (6) Loop Road At The Usdan Student Center West End
+(13 seconds)
+
+FROM: (6) Loop Road At The Usdan Student Center West End
+ON: Loop Road
+Coast down 106 feet in direction 154 degrees SE.
+TO: (8) Intersection Of Loop Road And Usen Bypass
+(5 seconds)
+
+FROM: (8) Intersection Of Loop Road And Usen Bypass
+ON: Loop Road
+Coast down 257 feet in direction 116 degrees SE.
+TO: (9) Loop Road At The Top Of East Quad Steps
+(11 seconds)
+
+FROM: (9) Loop Road At The Top Of East Quad Steps
+ON: East Quad Steps
+Go down 144 feet in direction 88 degrees East.
+TO: (U41) Intercultural Center, Swig Hall
+(no skateboards allowed, 35 seconds)
+
+FROM: (U41) Intercultural Center, Swig Hall
+Glide 169 feet in direction 63 degrees NE.
+TO: (U43) Shapiro Residence Hall	
+(19 seconds)
+
+FROM: (U43) Shapiro Residence Hall	
+Glide 169 feet in direction 243 degrees SW.
+TO: (U41) Intercultural Center, Swig Hall
+(19 seconds)
+
+FROM: (U41) Intercultural Center, Swig Hall
+Glide 324 feet in direction 203 degrees SW.
+TO: (W) Loop Road At The Health Center
+(36 seconds)
+
+FROM: (W) Loop Road At The Health Center
+ON: East Quad Lower Lot Driveway
+Coast down 425 feet in direction 81 degrees East.
+TO: (%) East Quad Lower Lot
+(19 seconds)
+
+FROM: (%) East Quad Lower Lot
+ON: East Quad Lower Lot Driveway
+Glide 425 feet in direction 261 degrees West.
+TO: (W) Loop Road At The Health Center
+(1.4 minutes)
+
+FROM: (W) Loop Road At The Health Center
+Glide 174 feet in direction 260 degrees West.
+TO: (U47) Stoneman Infirmary And Public Safety
+(19 seconds)
+
+FROM: (U47) Stoneman Infirmary And Public Safety
+Walk 38 feet in direction 316 degrees NW.
+TO: (=) Science Lot
+(no skateboards allowed, 8 seconds)
+
+FROM: (=) Science Lot
+Glide 198 feet in direction 87 degrees East.
+TO: (W) Loop Road At The Health Center
+(22 seconds)
+
+FROM: (W) Loop Road At The Health Center
+Glide 324 feet in direction 23 degrees NE.
+TO: (U41) Intercultural Center, Swig Hall
+(36 seconds)
+
+FROM: (U41) Intercultural Center, Swig Hall
+Glide 109 feet in direction 127 degrees SE.
+TO: (U44) Rubenstein-Pomerantz Residence Hall
+(12 seconds)
+
+FROM: (U44) Rubenstein-Pomerantz Residence Hall
+Glide 109 feet in direction 307 degrees NW.
+TO: (U41) Intercultural Center, Swig Hall
+(12 seconds)
+
+FROM: (U41) Intercultural Center, Swig Hall
+Glide 158 feet in direction 347 degrees North.
+TO: (U42) Hassenfeld-Krivoff Residence Hall
+(17 seconds)
+
+FROM: (U42) Hassenfeld-Krivoff Residence Hall
+Glide 158 feet in direction 167 degrees South.
+TO: (U41) Intercultural Center, Swig Hall
+(17 seconds)
+
+FROM: (U41) Intercultural Center, Swig Hall
+Glide 324 feet in direction 203 degrees SW.
+TO: (W) Loop Road At The Health Center
+(36 seconds)
+
+FROM: (W) Loop Road At The Health Center
+Glide 174 feet in direction 260 degrees West.
+TO: (U47) Stoneman Infirmary And Public Safety
+(19 seconds)
+
+FROM: (U47) Stoneman Infirmary And Public Safety
+Glide 309 feet in direction 260 degrees West.
+TO: (V) Loop Road At The Top Of Squire Bridge Steps
+(34 seconds)
+
+FROM: (V) Loop Road At The Top Of Squire Bridge Steps
+Coast down 635 feet in direction 259 degrees West.
+TO: (O) Loop Road At Below The Science Complex
+(28 seconds)
+
+FROM: (O) Loop Road At Below The Science Complex
+Walk 487 feet in direction 287 degrees West.
+TO: (R) Administration Side Entrance
+(no skateboards allowed, 1.8 minutes)
+
+FROM: (R) Administration Side Entrance
+Glide 121 feet in direction 270 degrees West.
+TO: (L19) Gryzmish Center
+(13 seconds)
+
+FROM: (L19) Gryzmish Center
+Glide 266 feet in direction 254 degrees West.
+TO: (N) Shapiro And Administration Main Entrances
+(29 seconds)
+
+FROM: (N) Shapiro And Administration Main Entrances
+Glide 107 feet in direction 212 degrees SW.
+TO: (L21) Bernstein-Marcus
+(12 seconds)
+
+FROM: (L21) Bernstein-Marcus
+Glide 315 feet in direction 87 degrees East.
+TO: (L20) Irving Presidential Enclave
+(35 seconds)
+
+FROM: (L20) Irving Presidential Enclave
+Glide 315 feet in direction 267 degrees West.
+TO: (L21) Bernstein-Marcus
+(35 seconds)
+
+FROM: (L21) Bernstein-Marcus
+Glide 300 feet in direction 242 degrees SW.
+TO: (K) Loop Road At The Administration Building
+(33 seconds)
+
+FROM: (K) Loop Road At The Administration Building
+Glide 454 feet in direction 107 degrees East.
+TO: (>) Slodberg Lot
+(50 seconds)
+
+FROM: (>) Slodberg Lot
+Glide 208 feet in direction 277 degrees West.
+TO: (L23) Slosberg Music Center
+(23 seconds)
+
+FROM: (L23) Slosberg Music Center
+Glide 117 feet in direction 263 degrees West.
+TO: (<) Admissions Lot
+(13 seconds)
+
+FROM: (<) Admissions Lot
+Glide 319 feet in direction 258 degrees West.
+TO: (L25) Ridgewood Residence Hall A
+(35 seconds)
+
+FROM: (L25) Ridgewood Residence Hall A
+Glide 104 feet in direction 265 degrees West.
+TO: (G) Ridgewood Quad
+(11 seconds)
+
+FROM: (G) Ridgewood Quad
+Coast down 320 feet in direction 261 degrees West.
+TO: (E) Ziv Quad
+(14 seconds)
+
+FROM: (E) Ziv Quad
+Glide 466 feet in direction 112 degrees SE.
+TO: (L28) Village Residence Hall
+(51 seconds)
+
+FROM: (L28) Village Residence Hall
+Glide 207 feet in direction 175 degrees South.
+TO: (H) West Intersection South St. & Old South St.
+(23 seconds)
+
+FROM: (H) West Intersection South St. & Old South St.
+ON: South Street
+Coast down 296 feet in direction 235 degrees SW.
+TO: (F) Epstein Entrance
+(13 seconds)
+
+FROM: (F) Epstein Entrance
+Glide 162 feet in direction 117 degrees SE.
+TO: (@) T-Lot
+(18 seconds)
+
+FROM: (@) T-Lot
+Glide 162 feet in direction 297 degrees NW.
+TO: (F) Epstein Entrance
+(18 seconds)
+
+FROM: (F) Epstein Entrance
+ON: Epstein Driveway
+Glide 273 feet in direction 278 degrees West.
+TO: (L33) Epstein Building
+(30 seconds)
+
+FROM: (L33) Epstein Building
+Glide 249 feet in direction 7 degrees North.
+TO: (L32) Mazer Residence Hall
+(27 seconds)
+
+FROM: (L32) Mazer Residence Hall
+Glide 192 feet in direction 299 degrees NW.
+TO: (L31) Ziv Residence Hall B
+(21 seconds)
+
+FROM: (L31) Ziv Residence Hall B
+Glide 192 feet in direction 119 degrees SE.
+TO: (L32) Mazer Residence Hall
+(21 seconds)
+
+FROM: (L32) Mazer Residence Hall
+Glide 197 feet in direction 55 degrees NE.
+TO: (L29) Ziv Residence Hall D
+(22 seconds)
+
+FROM: (L29) Ziv Residence Hall D
+Glide 200 feet in direction 317 degrees NW.
+TO: (E) Ziv Quad
+(22 seconds)
+
+FROM: (E) Ziv Quad
+Glide 162 feet in direction 265 degrees West.
+TO: (L30) Ziv Residence Hall A
+(18 seconds)
+
+FROM: (L30) Ziv Residence Hall A
+Glide 162 feet in direction 85 degrees East.
+TO: (E) Ziv Quad
+(18 seconds)
+
+FROM: (E) Ziv Quad
+Glide 137 feet in direction 62 degrees NE.
+TO: (L26) Ridgewood Residence Hall B
+(15 seconds)
+
+FROM: (L26) Ridgewood Residence Hall B
+Glide 193 feet in direction 91 degrees East.
+TO: (G) Ridgewood Quad
+(21 seconds)
+
+FROM: (G) Ridgewood Quad
+Glide 114 feet in direction 212 degrees SW.
+TO: (L27) Ridgewood Residence Hall C
+(13 seconds)
+
+FROM: (L27) Ridgewood Residence Hall C
+Glide 114 feet in direction 32 degrees NE.
+TO: (G) Ridgewood Quad
+(13 seconds)
+
+FROM: (G) Ridgewood Quad
+Coast down 320 feet in direction 261 degrees West.
+TO: (E) Ziv Quad
+(14 seconds)
+
+FROM: (E) Ziv Quad
+Glide 296 feet in direction 349 degrees North.
+TO: (L4) Spingold Theater Center
+(33 seconds)
+
+FROM: (L4) Spingold Theater Center
+Glide 243 feet in direction 273 degrees West.
+TO: (D) Between Fine Arts and Theater
+(27 seconds)
+
+FROM: (D) Between Fine Arts and Theater
+Glide 240 feet in direction 40 degrees NE.
+TO: (L5) Pollack Fine Arts
+(26 seconds)
+
+FROM: (L5) Pollack Fine Arts
+Glide 186 feet in direction 29 degrees NE.
+TO: (L6) The Rose Art Museum
+(21 seconds)
+
+FROM: (L6) The Rose Art Museum
+Glide 186 feet in direction 209 degrees SW.
+TO: (L5) Pollack Fine Arts
+(21 seconds)
+
+FROM: (L5) Pollack Fine Arts
+Glide 240 feet in direction 220 degrees SW.
+TO: (D) Between Fine Arts and Theater
+(26 seconds)
+
+FROM: (D) Between Fine Arts and Theater
+Glide 81 feet in direction 353 degrees North.
+TO: (L3) Goldman-Schwartz Fine Arts
+(9 seconds)
+
+FROM: (L3) Goldman-Schwartz Fine Arts
+Glide 432 feet in direction 270 degrees West.
+TO: (L2) IBS - Lemberg Academic Center
+(48 seconds)
+
+FROM: (L2) IBS - Lemberg Academic Center
+Glide 171 feet in direction 215 degrees SW.
+TO: (A) IBS Lemberg Academic Center Front Entrance
+(19 seconds)
+
+FROM: (A) IBS Lemberg Academic Center Front Entrance
+Glide 333 feet in direction 165 degrees South.
+TO: (~) Lower Theater Lot
+(37 seconds)
+
+FROM: (~) Lower Theater Lot
+Glide 333 feet in direction 345 degrees North.
+TO: (A) IBS Lemberg Academic Center Front Entrance
+(37 seconds)
+
+FROM: (A) IBS Lemberg Academic Center Front Entrance
+ON: Business School Driveway
+Glide 307 feet in direction 328 degrees NW.
+TO: (L1) IBS - Sachar International Center
+(34 seconds)
+
+FROM: (L1) IBS - Sachar International Center
+ON: Edge Connecting Map Upper Left Corner To A Map Location
+Glide 1509 feet in direction 342 degrees North.
+TO: (AAA) Upper Left Corner of Map
+(2.8 minutes)
+
+FROM: (AAA) Upper Left Corner of Map
+ON: Edge Connecting Map Upper Left Corner To A Map Location
+Glide 1509 feet in direction 162 degrees South.
+TO: (L1) IBS - Sachar International Center
+(2.8 minutes)
+
+FROM: (L1) IBS - Sachar International Center
+ON: Business School Driveway
+Glide 307 feet in direction 148 degrees SE.
+TO: (A) IBS Lemberg Academic Center Front Entrance
+(34 seconds)
+
+FROM: (A) IBS Lemberg Academic Center Front Entrance
+Glide 486 feet in direction 103 degrees East.
+TO: (!) Theater Lot
+(54 seconds)
+
+FROM: (!) Theater Lot
+Glide 385 feet in direction 111 degrees SE.
+TO: (E) Ziv Quad
+(42 seconds)
+
+FROM: (E) Ziv Quad
+Glide 257 feet in direction 186 degrees South.
+TO: (L32) Mazer Residence Hall
+(28 seconds)
+
+FROM: (L32) Mazer Residence Hall
+Glide 249 feet in direction 187 degrees South.
+TO: (L33) Epstein Building
+(27 seconds)
+
+FROM: (L33) Epstein Building
+ON: Epstein Driveway
+Glide 273 feet in direction 98 degrees East.
+TO: (F) Epstein Entrance
+(30 seconds)
+
+FROM: (F) Epstein Entrance
+ON: South Street
+Glide 483 feet in direction 241 degrees SW.
+TO: (C) Intersection Turner St. & South St.
+(53 seconds)
+
+FROM: (C) Intersection Turner St. & South St.
+ON: Turner Street
+Glide 364 feet in direction 263 degrees West.
+TO: (L35) 567 South Street Apartments
+(40 seconds)
+
+FROM: (L35) 567 South Street Apartments
+ON: South Street
+Glide 414 feet in direction 214 degrees SW.
+TO: (L36) May, Lewis, Coffman, and Cohen Residence Halls
+(46 seconds)
+
+FROM: (L36) May, Lewis, Coffman, and Cohen Residence Halls
+ON: South Street
+Glide 713 feet in direction 58 degrees NE.
+TO: (C) Intersection Turner St. & South St.
+(1.3 minutes)
+
+FROM: (C) Intersection Turner St. & South St.
+Glide 772 feet in direction 281 degrees West.
+TO: (L34) 60 Turner Street
+(1.4 minutes)
+
+FROM: (L34) 60 Turner Street
+Glide 772 feet in direction 101 degrees East.
+TO: (C) Intersection Turner St. & South St.
+(1.4 minutes)
+
+FROM: (C) Intersection Turner St. & South St.
+ON: South Street
+Glide 483 feet in direction 61 degrees NE.
+TO: (F) Epstein Entrance
+(53 seconds)
+
+FROM: (F) Epstein Entrance
+ON: South Street
+Glide 296 feet in direction 55 degrees NE.
+TO: (H) West Intersection South St. & Old South St.
+(59 seconds)
+
+FROM: (H) West Intersection South St. & Old South St.
+Glide 207 feet in direction 355 degrees North.
+TO: (L28) Village Residence Hall
+(23 seconds)
+
+FROM: (L28) Village Residence Hall
+Glide 251 feet in direction 332 degrees NW.
+TO: (G) Ridgewood Quad
+(28 seconds)
+
+FROM: (G) Ridgewood Quad
+Glide 104 feet in direction 85 degrees East.
+TO: (L25) Ridgewood Residence Hall A
+(11 seconds)
+
+FROM: (L25) Ridgewood Residence Hall A
+Glide 104 feet in direction 265 degrees West.
+TO: (G) Ridgewood Quad
+(11 seconds)
+
+FROM: (G) Ridgewood Quad
+Glide 175 feet in direction 17 degrees North.
+TO: (L24) Shapiro Admissions Center
+(19 seconds)
+
+FROM: (L24) Shapiro Admissions Center
+Glide 140 feet in direction 44 degrees NE.
+TO: (J) Loop Road At The Admissions Building
+(15 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+Glide 510 feet in direction 72 degrees East.
+TO: (N) Shapiro And Administration Main Entrances
+(56 seconds)
+
+FROM: (N) Shapiro And Administration Main Entrances
+Glide 287 feet in direction 45 degrees NE.
+TO: (L18) Fellows Garden
+(32 seconds)
+
+FROM: (L18) Fellows Garden
+Glide 287 feet in direction 225 degrees SW.
+TO: (N) Shapiro And Administration Main Entrances
+(32 seconds)
+
+FROM: (N) Shapiro And Administration Main Entrances
+Walk 181 feet in direction 314 degrees NW.
+TO: (L17) Shapiro Campus Center
+(no skateboards allowed, 40 seconds)
+
+FROM: (L17) Shapiro Campus Center
+Walk 203 feet in direction 5 degrees North.
+TO: (L13) Sherman Hall / Hassenfeld Conference Center
+(no skateboards allowed, 45 seconds)
+
+FROM: (L13) Sherman Hall / Hassenfeld Conference Center
+Glide 139 feet in direction 95 degrees East.
+TO: (L16) Rosenthal Residence Hall South
+(15 seconds)
+
+FROM: (L16) Rosenthal Residence Hall South
+Glide 215 feet in direction 61 degrees NE.
+TO: (L15) Rosenthal Residence Hall East
+(24 seconds)
+
+FROM: (L15) Rosenthal Residence Hall East
+Glide 122 feet in direction 336 degrees NW.
+TO: (L14) Rosenthal Residence Hall North
+(13 seconds)
+
+FROM: (L14) Rosenthal Residence Hall North
+Glide 132 feet in direction 352 degrees North.
+TO: (U3) Bethlehem Chapel
+(15 seconds)
+
+FROM: (U3) Bethlehem Chapel
+Glide 175 feet in direction 287 degrees West.
+TO: (U1) Berlin Chapel
+(19 seconds)
+
+FROM: (U1) Berlin Chapel
+Glide 75 feet in direction 19 degrees North.
+TO: (P) Loop Road At The Chapels
+(8 seconds)
+
+FROM: (P) Loop Road At The Chapels
+Glide 130 feet in direction 67 degrees NE.
+TO: (U2) Harlan Chapel
+(14 seconds)
+
+FROM: (U2) Harlan Chapel
+Glide 176 feet in direction 172 degrees South.
+TO: (U3) Bethlehem Chapel
+(19 seconds)
+
+FROM: (U3) Bethlehem Chapel
+Glide 312 feet in direction 243 degrees SW.
+TO: (L11) Renfield Residence Hall
+(34 seconds)
+
+FROM: (L11) Renfield Residence Hall
+Glide 121 feet in direction 94 degrees East.
+TO: (L12) Usen Residence Hall
+(13 seconds)
+
+FROM: (L12) Usen Residence Hall
+Glide 121 feet in direction 274 degrees West.
+TO: (L11) Renfield Residence Hall
+(13 seconds)
+
+FROM: (L11) Renfield Residence Hall
+Glide 249 feet in direction 238 degrees SW.
+TO: (L9) Shapiro Residence Hal
+(27 seconds)
+
+FROM: (L9) Shapiro Residence Hal
+Glide 234 feet in direction 170 degrees South.
+TO: (L8) Faculty Lodge
+(26 seconds)
+
+FROM: (L8) Faculty Lodge
+Glide 276 feet in direction 252 degrees West.
+TO: (L7) Faculty Center
+(30 seconds)
+
+FROM: (L7) Faculty Center
+Glide 181 feet in direction 226 degrees SW.
+TO: (I) Loop Road At The Theater
+(20 seconds)
+
+FROM: (I) Loop Road At The Theater
+ON: Loop Road
+Coast down 229 feet in direction 118 degrees SE.
+TO: (J) Loop Road At The Admissions Building
+(10 seconds)
+
+legs = 281, distance = 84037 feet, time = 168.4 minutes

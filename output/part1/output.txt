@@ -1,0 +1,648 @@
+
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): U14
+Enter finish (or return to do a tour): L24
+Have a skateboard (y/n - default=n)? y
+Minimize time (y/n - default=n)? y
+
+FROM: (U14) Rabb Graduate Center
+Glide 149 feet in direction 333 degrees NW.
+TO: (0) Mandel Quad
+(16 seconds)
+
+FROM: (0) Mandel Quad
+Glide 394 feet in direction 288 degrees West.
+TO: ($) Tower Lot
+(43 seconds)
+
+FROM: ($) Tower Lot
+Coast down 961 feet in direction 249 degrees West.
+TO: (P) Loop Road At The Chapels
+(42 seconds)
+
+FROM: (P) Loop Road At The Chapels
+ON: Loop Road
+Coast down 634 feet in direction 233 degrees SW.
+TO: (M) Loop Road By The Hassenfeld Lot
+(28 seconds)
+
+FROM: (M) Loop Road By The Hassenfeld Lot
+ON: Loop Road
+Coast down 508 feet in direction 200 degrees South.
+TO: (I) Loop Road At The Theater
+(22 seconds)
+
+FROM: (I) Loop Road At The Theater
+ON: Loop Road
+Coast down 229 feet in direction 118 degrees SE.
+TO: (J) Loop Road At The Admissions Building
+(10 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+Glide 140 feet in direction 224 degrees SW.
+TO: (L24) Shapiro Admissions Center
+(15 seconds)
+
+legs = 7, distance = 3015 feet, time = 2.9 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): U14
+Enter finish (or return to do a tour): L24
+Have a skateboard (y/n - default=n)? y
+Minimize time (y/n - default=n)? n
+
+FROM: (U14) Rabb Graduate Center
+ON: Rabb Steps
+Go down 165 feet in direction 220 degrees SW.
+TO: (2) Loop Road By Rabb Steps
+(no skateboards allowed, 40 seconds)
+
+FROM: (2) Loop Road By Rabb Steps
+ON: Central Campus Walkway
+Walk 290 feet in direction 222 degrees SW.
+TO: (U) Between Social Sciences And Library
+(no skateboards allowed, 1.1 minutes)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Walk 278 feet in direction 262 degrees West.
+TO: (T) Between Sciences and Library
+(no skateboards allowed, 1.0 minutes)
+
+FROM: (T) Between Sciences and Library
+ON: Central Campus Walkway
+Coast down 555 feet in direction 248 degrees West.
+TO: (Q) Rosenthal Quad
+(24 seconds)
+
+FROM: (Q) Rosenthal Quad
+ON: Central Campus Walkway Through Fellows Garden
+Glide 392 feet in direction 224 degrees SW.
+TO: (N) Shapiro And Administration Main Entrances
+(43 seconds)
+
+FROM: (N) Shapiro And Administration Main Entrances
+Glide 510 feet in direction 252 degrees West.
+TO: (J) Loop Road At The Admissions Building
+(56 seconds)
+
+FROM: (J) Loop Road At The Admissions Building
+Glide 140 feet in direction 224 degrees SW.
+TO: (L24) Shapiro Admissions Center
+(15 seconds)
+
+legs = 7, distance = 2330 feet, time = 5.0 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): U14
+Enter finish (or return to do a tour): L24
+Have a skateboard (y/n - default=n)? n
+Minimize time (y/n - default=n)? n
+
+FROM: (U14) Rabb Graduate Center
+ON: Rabb Steps
+Go down 165 feet in direction 220 degrees SW.
+TO: (2) Loop Road By Rabb Steps
+(40 seconds)
+
+FROM: (2) Loop Road By Rabb Steps
+ON: Central Campus Walkway
+Walk 290 feet in direction 222 degrees SW.
+TO: (U) Between Social Sciences And Library
+(1.1 minutes)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Walk 278 feet in direction 262 degrees West.
+TO: (T) Between Sciences and Library
+(1.0 minutes)
+
+FROM: (T) Between Sciences and Library
+ON: Central Campus Walkway
+Walk down 555 feet in direction 248 degrees West.
+TO: (Q) Rosenthal Quad
+(1.9 minutes)
+
+FROM: (Q) Rosenthal Quad
+ON: Central Campus Walkway Through Fellows Garden
+Walk 392 feet in direction 224 degrees SW.
+TO: (N) Shapiro And Administration Main Entrances
+(1.4 minutes)
+
+FROM: (N) Shapiro And Administration Main Entrances
+Walk 510 feet in direction 252 degrees West.
+TO: (J) Loop Road At The Admissions Building
+(1.9 minutes)
+
+FROM: (J) Loop Road At The Admissions Building
+Walk 140 feet in direction 224 degrees SW.
+TO: (L24) Shapiro Admissions Center
+(31 seconds)
+
+legs = 7, distance = 2330 feet, time = 8.4 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): U37
+Enter finish (or return to do a tour): L5
+Have a skateboard (y/n - default=n)? y
+Minimize time (y/n - default=n)? y
+
+FROM: (U37) Schwartz Hall
+Glide 112 feet in direction 279 degrees West.
+TO: (U) Between Social Sciences And Library
+(12 seconds)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Walk 290 feet in direction 42 degrees NE.
+TO: (2) Loop Road By Rabb Steps
+(no skateboards allowed, 1.1 minutes)
+
+FROM: (2) Loop Road By Rabb Steps
+ON: Loop Road
+Glide 284 feet in direction 299 degrees NW.
+TO: (1) Loop Road By Mandel Center
+(31 seconds)
+
+FROM: (1) Loop Road By Mandel Center
+ON: Loop Road
+Coast down 994 feet in direction 264 degrees West.
+TO: (P) Loop Road At The Chapels
+(44 seconds)
+
+FROM: (P) Loop Road At The Chapels
+ON: Loop Road
+Coast down 634 feet in direction 233 degrees SW.
+TO: (M) Loop Road By The Hassenfeld Lot
+(28 seconds)
+
+FROM: (M) Loop Road By The Hassenfeld Lot
+ON: Loop Road
+Coast down 508 feet in direction 200 degrees South.
+TO: (I) Loop Road At The Theater
+(22 seconds)
+
+FROM: (I) Loop Road At The Theater
+ON: Museum Circle
+Glide 413 feet in direction 278 degrees West.
+TO: (L5) Pollack Fine Arts
+(46 seconds)
+
+legs = 7, distance = 3235 feet, time = 4.1 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): U37
+Enter finish (or return to do a tour): L5
+Have a skateboard (y/n - default=n)? y
+Minimize time (y/n - default=n)? n
+
+FROM: (U37) Schwartz Hall
+Glide 112 feet in direction 279 degrees West.
+TO: (U) Between Social Sciences And Library
+(12 seconds)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Walk 278 feet in direction 262 degrees West.
+TO: (T) Between Sciences and Library
+(no skateboards allowed, 1.0 minutes)
+
+FROM: (T) Between Sciences and Library
+Walk down 571 feet in direction 264 degrees West.
+TO: (L15) Rosenthal Residence Hall East
+(no skateboards allowed, 1.9 minutes)
+
+FROM: (L15) Rosenthal Residence Hall East
+Glide 215 feet in direction 241 degrees SW.
+TO: (L16) Rosenthal Residence Hall South
+(24 seconds)
+
+FROM: (L16) Rosenthal Residence Hall South
+Glide 139 feet in direction 275 degrees West.
+TO: (L13) Sherman Hall / Hassenfeld Conference Center
+(15 seconds)
+
+FROM: (L13) Sherman Hall / Hassenfeld Conference Center
+Glide 231 feet in direction 283 degrees West.
+TO: (L9) Shapiro Residence Hal
+(25 seconds)
+
+FROM: (L9) Shapiro Residence Hal
+Glide 386 feet in direction 216 degrees SW.
+TO: (L7) Faculty Center
+(43 seconds)
+
+FROM: (L7) Faculty Center
+Glide 544 feet in direction 262 degrees West.
+TO: (L5) Pollack Fine Arts
+(1.0 minutes)
+
+legs = 8, distance = 2476 feet, time = 5.9 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): U37
+Enter finish (or return to do a tour): L5
+Have a skateboard (y/n - default=n)? n
+Minimize time (y/n - default=n)? n
+
+FROM: (U37) Schwartz Hall
+Walk 112 feet in direction 279 degrees West.
+TO: (U) Between Social Sciences And Library
+(25 seconds)
+
+FROM: (U) Between Social Sciences And Library
+ON: Central Campus Walkway
+Walk 278 feet in direction 262 degrees West.
+TO: (T) Between Sciences and Library
+(1.0 minutes)
+
+FROM: (T) Between Sciences and Library
+Walk down 571 feet in direction 264 degrees West.
+TO: (L15) Rosenthal Residence Hall East
+(1.9 minutes)
+
+FROM: (L15) Rosenthal Residence Hall East
+Walk 215 feet in direction 241 degrees SW.
+TO: (L16) Rosenthal Residence Hall South
+(47 seconds)
+
+FROM: (L16) Rosenthal Residence Hall South
+Walk 139 feet in direction 275 degrees West.
+TO: (L13) Sherman Hall / Hassenfeld Conference Center
+(31 seconds)
+
+FROM: (L13) Sherman Hall / Hassenfeld Conference Center
+Walk 231 feet in direction 283 degrees West.
+TO: (L9) Shapiro Residence Hal
+(51 seconds)
+
+FROM: (L9) Shapiro Residence Hal
+Walk 386 feet in direction 216 degrees SW.
+TO: (L7) Faculty Center
+(1.4 minutes)
+
+FROM: (L7) Faculty Center
+Walk 544 feet in direction 262 degrees West.
+TO: (L5) Pollack Fine Arts
+(2.0 minutes)
+
+legs = 8, distance = 2476 feet, time = 8.9 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): U40
+Enter finish (or return to do a tour): +
+Have a skateboard (y/n - default=n)? y
+Minimize time (y/n - default=n)? y
+
+FROM: (U40) Usen Castle
+ON: Usen Driveway
+Walk 126 feet in direction 273 degrees West.
+TO: (7) Usen Main Entrance
+(no skateboards allowed, 28 seconds)
+
+FROM: (7) Usen Main Entrance
+ON: Usen Bypass
+Glide 161 feet in direction 37 degrees NE.
+TO: (8) Intersection Of Loop Road And Usen Bypass
+(18 seconds)
+
+FROM: (8) Intersection Of Loop Road And Usen Bypass
+ON: Loop Road
+Coast down 257 feet in direction 116 degrees SE.
+TO: (9) Loop Road At The Top Of East Quad Steps
+(11 seconds)
+
+FROM: (9) Loop Road At The Top Of East Quad Steps
+ON: Loop Road
+Coast down 293 feet in direction 179 degrees South.
+TO: (W) Loop Road At The Health Center
+(13 seconds)
+
+FROM: (W) Loop Road At The Health Center
+ON: Health Center Steps
+Go down 213 feet in direction 157 degrees SE.
+TO: (X) South St. At The Base Of Health Center Steps
+(no skateboards allowed, 52 seconds)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+Glide 399 feet in direction 117 degrees SE.
+TO: (?) Athletic Lower Lot
+(44 seconds)
+
+FROM: (?) Athletic Lower Lot
+ON: Athletics Driveway
+Glide 249 feet in direction 139 degrees SE.
+TO: (+) Athletic Back Lot
+(27 seconds)
+
+legs = 7, distance = 1698 feet, time = 3.2 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): U40
+Enter finish (or return to do a tour): +
+Have a skateboard (y/n - default=n)? n
+Minimize time (y/n - default=n)? n
+
+FROM: (U40) Usen Castle
+ON: Usen Driveway
+Walk 126 feet in direction 273 degrees West.
+TO: (7) Usen Main Entrance
+(28 seconds)
+
+FROM: (7) Usen Main Entrance
+ON: Usen Bypass
+Walk 130 feet in direction 157 degrees SE.
+TO: (S) Top Of Usen Steps
+(29 seconds)
+
+FROM: (S) Top Of Usen Steps
+ON: Usen Steps
+Go down 184 feet in direction 148 degrees SE.
+TO: (=) Science Lot
+(45 seconds)
+
+FROM: (=) Science Lot
+Walk 198 feet in direction 87 degrees East.
+TO: (W) Loop Road At The Health Center
+(44 seconds)
+
+FROM: (W) Loop Road At The Health Center
+ON: Health Center Steps
+Go down 213 feet in direction 157 degrees SE.
+TO: (X) South St. At The Base Of Health Center Steps
+(52 seconds)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+Walk 399 feet in direction 117 degrees SE.
+TO: (?) Athletic Lower Lot
+(1.5 minutes)
+
+FROM: (?) Athletic Lower Lot
+ON: Athletics Driveway
+Walk 249 feet in direction 139 degrees SE.
+TO: (+) Athletic Back Lot
+(55 seconds)
+
+legs = 7, distance = 1499 feet, time = 5.6 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): U17
+Enter finish (or return to do a tour): L36
+Have a skateboard (y/n - default=n)? y
+Minimize time (y/n - default=n)? y
+
+FROM: (U17) Reitman Residence Hall
+ON: Mandel Rear Access Road
+Coast down 147 feet in direction 160 degrees South.
+TO: (U18) Cable Residence Hall
+(6 seconds)
+
+FROM: (U18) Cable Residence Hall
+ON: Mandel Rear Access Road
+Glide 162 feet in direction 228 degrees SW.
+TO: (5) Cable Residence Hall Street Entrance
+(18 seconds)
+
+FROM: (5) Cable Residence Hall Street Entrance
+ON: Mandel Rear Access Road
+Coast down 289 feet in direction 254 degrees West.
+TO: (6) Loop Road At The Usdan Student Center West End
+(13 seconds)
+
+FROM: (6) Loop Road At The Usdan Student Center West End
+ON: Loop Road
+Coast down 106 feet in direction 154 degrees SE.
+TO: (8) Intersection Of Loop Road And Usen Bypass
+(5 seconds)
+
+FROM: (8) Intersection Of Loop Road And Usen Bypass
+ON: Usen Bypass
+Glide 161 feet in direction 217 degrees SW.
+TO: (7) Usen Main Entrance
+(18 seconds)
+
+FROM: (7) Usen Main Entrance
+ON: Usen Bypass
+Glide 130 feet in direction 157 degrees SE.
+TO: (S) Top Of Usen Steps
+(14 seconds)
+
+FROM: (S) Top Of Usen Steps
+ON: Usen Bypass
+Coast down 297 feet in direction 218 degrees SW.
+TO: (V) Loop Road At The Top Of Squire Bridge Steps
+(13 seconds)
+
+FROM: (V) Loop Road At The Top Of Squire Bridge Steps
+ON: Loop Road
+Coast down 1063 feet in direction 254 degrees West.
+TO: (L22) Main Entrance
+(47 seconds)
+
+FROM: (L22) Main Entrance
+Glide 230 feet in direction 213 degrees SW.
+TO: (L) East Intersection South St. & Old South St.
+(25 seconds)
+
+FROM: (L) East Intersection South St. & Old South St.
+ON: Old South Street
+Glide 461 feet in direction 220 degrees SW.
+TO: (L40) The Rabb School
+(51 seconds)
+
+FROM: (L40) The Rabb School
+ON: Old South Street
+Coast down 525 feet in direction 263 degrees West.
+TO: (H) West Intersection South St. & Old South St.
+(23 seconds)
+
+FROM: (H) West Intersection South St. & Old South St.
+ON: South Street
+Coast down 296 feet in direction 235 degrees SW.
+TO: (F) Epstein Entrance
+(13 seconds)
+
+FROM: (F) Epstein Entrance
+ON: South Street
+Glide 483 feet in direction 241 degrees SW.
+TO: (C) Intersection Turner St. & South St.
+(53 seconds)
+
+FROM: (C) Intersection Turner St. & South St.
+ON: South Street
+Glide 713 feet in direction 238 degrees SW.
+TO: (L36) May, Lewis, Coffman, and Cohen Residence Halls
+(1.3 minutes)
+
+legs = 14, distance = 5063 feet, time = 6.2 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): L1
+Enter finish (or return to do a tour): A4
+Have a skateboard (y/n - default=n)? n
+Minimize time (y/n - default=n)? y
+
+FROM: (L1) IBS - Sachar International Center
+Walk 287 feet in direction 114 degrees SE.
+TO: (L2) IBS - Lemberg Academic Center
+(1.1 minutes)
+
+FROM: (L2) IBS - Lemberg Academic Center
+ON: Business School BrandeisMap.model.Path
+Walk 446 feet in direction 99 degrees East.
+TO: (D) Between Fine Arts and Theater
+(1.6 minutes)
+
+FROM: (D) Between Fine Arts and Theater
+Walk 243 feet in direction 93 degrees East.
+TO: (L4) Spingold Theater Center
+(54 seconds)
+
+FROM: (L4) Spingold Theater Center
+Walk 519 feet in direction 88 degrees East.
+TO: (J) Loop Road At The Admissions Building
+(1.9 minutes)
+
+FROM: (J) Loop Road At The Admissions Building
+ON: Loop Road
+Walk 167 feet in direction 110 degrees East.
+TO: (K) Loop Road At The Administration Building
+(41 seconds)
+
+FROM: (K) Loop Road At The Administration Building
+ON: Loop Road
+Walk down 770 feet in direction 91 degrees East.
+TO: (L22) Main Entrance
+(2.6 minutes)
+
+FROM: (L22) Main Entrance
+Walk 1163 feet in direction 88 degrees East.
+TO: (A1u) Under Squire Bridge
+(4.3 minutes)
+
+FROM: (A1u) Under Squire Bridge
+ON: South Street
+Walk 430 feet in direction 76 degrees East.
+TO: (X) South St. At The Base Of Health Center Steps
+(1.8 minutes)
+
+FROM: (X) South St. At The Base Of Health Center Steps
+Walk 399 feet in direction 117 degrees SE.
+TO: (?) Athletic Lower Lot
+(1.5 minutes)
+
+FROM: (?) Athletic Lower Lot
+Walk 251 feet in direction 63 degrees NE.
+TO: (A4) Foster Residence Quad
+(55 seconds)
+
+legs = 10, distance = 4675 feet, time = 17.1 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): L36
+Enter finish (or return to do a tour): $
+Have a skateboard (y/n - default=n)? n
+Minimize time (y/n - default=n)? y
+
+FROM: (L36) May, Lewis, Coffman, and Cohen Residence Halls
+ON: South Street
+Walk 713 feet in direction 58 degrees NE.
+TO: (C) Intersection Turner St. & South St.
+(2.6 minutes)
+
+FROM: (C) Intersection Turner St. & South St.
+ON: South Street
+Walk 483 feet in direction 61 degrees NE.
+TO: (F) Epstein Entrance
+(1.8 minutes)
+
+FROM: (F) Epstein Entrance
+ON: South Street
+Walk 296 feet in direction 55 degrees NE.
+TO: (H) West Intersection South St. & Old South St.
+(1.2 minutes)
+
+FROM: (H) West Intersection South St. & Old South St.
+Walk 207 feet in direction 355 degrees North.
+TO: (L28) Village Residence Hall
+(46 seconds)
+
+FROM: (L28) Village Residence Hall
+Walk 469 feet in direction 25 degrees NE.
+TO: (K) Loop Road At The Administration Building
+(1.7 minutes)
+
+FROM: (K) Loop Road At The Administration Building
+ON: Central Campus Walkway
+Walk 396 feet in direction 56 degrees NE.
+TO: (N) Shapiro And Administration Main Entrances
+(1.5 minutes)
+
+FROM: (N) Shapiro And Administration Main Entrances
+Walk 316 feet in direction 4 degrees North.
+TO: (L16) Rosenthal Residence Hall South
+(1.2 minutes)
+
+FROM: (L16) Rosenthal Residence Hall South
+Walk 215 feet in direction 61 degrees NE.
+TO: (L15) Rosenthal Residence Hall East
+(47 seconds)
+
+FROM: (L15) Rosenthal Residence Hall East
+Walk 122 feet in direction 336 degrees NW.
+TO: (L14) Rosenthal Residence Hall North
+(27 seconds)
+
+FROM: (L14) Rosenthal Residence Hall North
+Walk 132 feet in direction 352 degrees North.
+TO: (U3) Bethlehem Chapel
+(29 seconds)
+
+FROM: (U3) Bethlehem Chapel
+Walk 191 feet in direction 313 degrees NW.
+TO: (P) Loop Road At The Chapels
+(42 seconds)
+
+FROM: (P) Loop Road At The Chapels
+Walk 961 feet in direction 69 degrees East.
+TO: ($) Tower Lot
+(3.9 minutes)
+
+legs = 12, distance = 4501 feet, time = 17.0 minutes
+
+************* WELCOME TO THE BRANDEIS MAP *************
+Enter start (return to quit): !
+Enter finish (or return to do a tour): =
+Have a skateboard (y/n - default=n)? n
+Minimize time (y/n - default=n)? n
+
+FROM: (!) Theater Lot
+Walk 852 feet in direction 76 degrees East.
+TO: (J) Loop Road At The Admissions Building
+(3.5 minutes)
+
+FROM: (J) Loop Road At The Admissions Building
+ON: Loop Road
+Walk 167 feet in direction 110 degrees East.
+TO: (K) Loop Road At The Administration Building
+(41 seconds)
+
+FROM: (K) Loop Road At The Administration Building
+ON: Loop Road
+Walk down 770 feet in direction 91 degrees East.
+TO: (L22) Main Entrance
+(2.6 minutes)
+
+FROM: (L22) Main Entrance
+ON: Loop Road
+Walk 1063 feet in direction 74 degrees East.
+TO: (V) Loop Road At The Top Of Squire Bridge Steps
+(4.4 minutes)
+
+FROM: (V) Loop Road At The Top Of Squire Bridge Steps
+Walk 289 feet in direction 76 degrees East.
+TO: (=) Science Lot
+(1.1 minutes)
+
+legs = 5, distance = 3141 feet, time = 12.1 minutes
